@@ -1,0 +1,49 @@
+{
+    "deduplicationId": "ef1ea420-a519-4a14-b7d7-c1c83e54c619",
+    "time": "2023-09-27T09:21:49+00:00",
+    "deviceInfo": {
+        "tenantId": "52f14cd4-c6f1-4fbd-8f87-4025e1d49242",
+        "tenantName": "ChirpStack",
+        "applicationId": "c1b05605-2e2c-4a76-9b15-86913002103b",
+        "applicationName": "GNSS8 ",
+        "deviceProfileId": "ef2fd60d-bba4-4915-9347-dc55aa3aa650",
+        "deviceProfileName": "End device",
+        "deviceName": "dev-kit-nico",
+        "devEui": "0016c001f0200cf4",
+        "deviceClassEnabled": "CLASS_A",
+        "tags": {}
+    },
+    "devAddr": "008dcdd6",
+    "adr": true,
+    "dr": 5,
+    "fCnt": 29,
+    "fPort": 31,
+    "confirmed": false,
+    "data": "gww+PQUBeAU=",
+    "rxInfo": [
+        {
+            "gatewayId": "58a0cbfffe800110",
+            "uplinkId": 80372672,
+            "time": "2023-09-27T09:21:49+00:00",
+            "rssi": -35,
+            "snr": 11.25,
+            "location": {},
+            "context": "AAAAAAAAAAAAnwABuAYmcw==",
+            "metadata": {
+                "region_config_id": "eu868",
+                "region_common_name": "EU868"
+            },
+            "crcStatus": "CRC_OK"
+        }
+    ],
+    "txInfo": {
+        "frequency": 867100000,
+        "modulation": {
+            "lora": {
+                "bandwidth": 125000,
+                "spreadingFactor": 7,
+                "codeRate": "CR_4_5"
+            }
+        }
+    }
+}
